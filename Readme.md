@@ -13,5 +13,5 @@ This image is installed with specifics plugins :
 ## Install
 
 ```
-docker push throrin19/graylog-plugins:2.3.1-1
+docker pull throrin19/graylog-plugins:2.3.1-1
 ```
